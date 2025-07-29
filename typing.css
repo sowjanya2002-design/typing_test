@@ -1,0 +1,80 @@
+.bg-container {
+    background-image: linear-gradient(to right, #ffffff, #f2ebfe, #f3eaff, #dac0ff, #690cb0);
+    padding: 35px
+}
+
+.type-head {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.para-ele {
+    color: #3e4e59;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.timer-para {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 35px;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+
+.img-size {
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+}
+
+.card-container {
+    background-color: #f2ebfe;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    border-radius: 12px;
+    padding: 35px;
+    margin-top: 25px;
+}
+
+.description {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.text-area {
+    padding: 25px;
+    width: 50%
+}
+
+.result-para {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.button-1 {
+    background-color: #690cb0;
+    border-radius: 6px;
+    color: #ffffff;
+    font-family: "Roboto";
+    border-style: none;
+    padding: 5px;
+}
+
+.button-2 {
+    background-color: #ffffff;
+    color: black;
+    font-family: "Roboto";
+    border-style: none;
+    padding: 5px;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-left: 30px;
+}
